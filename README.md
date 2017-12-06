@@ -1,9 +1,14 @@
 TEsT Contents
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 More test
 =======
 >>>>>>> 9d52582f09df30a54a3b9f2b62c579a5a66b94fd
+=======
+
+More test
+>>>>>>> 6e3dd4a... test content
 # Composer template for Drupal projects
 
 [![Build Status](https://travis-ci.org/drupal-composer/drupal-project.svg?branch=8.x)](https://travis-ci.org/drupal-composer/drupal-project)
